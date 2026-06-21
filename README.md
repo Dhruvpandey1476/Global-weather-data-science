@@ -145,15 +145,6 @@ Python 3.11
 └── folium                          Interactive geographic map
 ```
 
----
-
-## 📹 Demo Video
-
-> 📌 Demo video link: **[ADD YOUR VIDEO LINK HERE]**
-> *(Record a 1–2 min screen walkthrough showing the code, pipeline output, and report)*
-
----
-
 ## 📬 Submission
 
 Submitted via the [PM Accelerator Google Form](https://forms.gle/XfM3Xrzpo9sbHr4g8).
